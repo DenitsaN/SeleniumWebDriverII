@@ -1,0 +1,7 @@
+2023-09-01 18:46:03,251 INFO  [main] Initializing WebDriver
+2023-09-01 18:46:13,951 INFO  [main] Initializing WebDriver
+2023-09-01 18:46:13,980 INFO  [main] Initializing WebDriver
+2023-09-01 18:46:17,655 INFO  [main] Clicking on element trello.loginPage.loginButton
+2023-09-01 18:46:22,040 INFO  [main] Clicking on element trello.loginPage.loginSubmitButton
+2023-09-01 18:46:29,931 INFO  [main] Initializing WebDriver
+2023-09-01 18:46:29,995 INFO  [main] Quitting WebDriver
